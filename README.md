@@ -62,7 +62,7 @@ log.dir=/tmp/kafka-logs-2
 $ bin/kafka-server-start.sh config/server-1.properties
 $ bin/kafka-server-start.sh config/server-2.properties
 ```
-## config
+## Config
 in the file config.js, you can change the client_id, kafka_topic and brokers
 ```bash
 {
@@ -88,5 +88,5 @@ node consumer.js
 
 ## Resources
 
-[https://kafka.apache.org/quickstart#quickstart_multibroker](https://kafka.apache.org/quickstart#quickstart_multibroker)
-[https://www.scaleway.com/en/docs/configure-apache-kafka/](https://www.scaleway.com/en/docs/configure-apache-kafka/)
+- [https://kafka.apache.org/quickstart#quickstart_multibroker](https://kafka.apache.org/quickstart#quickstart_multibroker)
+- [https://www.scaleway.com/en/docs/configure-apache-kafka/](https://www.scaleway.com/en/docs/configure-apache-kafka/)
