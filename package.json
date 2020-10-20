@@ -1,0 +1,14 @@
+{
+  "name": "kafka-producer_consumer",
+  "version": "1.0.0",
+  "description": "Building a Messaging System with Apache Kafka",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nedra Krifa",
+  "license": "ISC",
+  "dependencies": {
+    "kafkajs": "^1.14.0"
+  }
+}
